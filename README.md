@@ -6,6 +6,7 @@ Task 1
 
 - Web Scrapping to get customer reviews of British Airways from https://www.airlinequality.com/airline-reviews/british-airways/
 - Doing sentiment analysis from 2000 customer reviews
+- Adding Unsupervised Machine Learning model to predict customer sentiment by passenger reviews
 
 Task 2
 
